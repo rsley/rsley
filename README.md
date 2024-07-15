@@ -1,5 +1,5 @@
-# <p align="center">💫 About Me:</p>
-🔭 Currently working on EconSys<br>👯 Looking to collaborate with Assistants' Center on Discord-Dashboard<br>🌱 Currently learning Economics, Business, and C++<br>💬 Ask me about economics<br>⚡ Fun fact: I started coding when I was 8 years old
+# <p align="center">💫 Rafael</p>
+🔭 Currently working on Athena Solutions Ltd.<br>👯 Looking to collaborate with `Assistants' Center on Discord-Dashboard` and `Thinking_Curved on Area-16`<br>🌱 Currently learning Economics, Business, and Python<br>💬 Ask me about economics<br>⚡ Fun fact: I started coding when I was 8 years old
 
 
 ## 🌐 Socials:
