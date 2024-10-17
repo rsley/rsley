@@ -1,6 +1,6 @@
 # Rafael Soley R.
 
-![Typing SVG](https://cdn.rsrdev.com/typing?font=Fira+Code&duration=4000&pause=1000&color=4D8AF7&vCenter=true&random=true&width=435&lines=A+self-taught+developer;Aspiring+neural+network+engineer;A+visionary;Aspiring+Cyber+Security+Expert;An+advocate+for+global+safety;Driven+to+inspire+and+make+an+impact;High+school+student)
+<img src="https://cdn.rsrdev.com/typing?font=Raleway&duration=4000&pause=1000&size=16&color=4D8AF7&vCenter=true&width=435&lines=A+self-taught+developer;Aspiring+neural+network+engineer;A+visionary;Aspiring+Cyber+Security+Expert;An+advocate+for+global+safety;Driven+to+inspire+and+make+an+impact;High+school+student" alt="Typing SVG"/>
 
 ## 👋 About Me:
 🔭 Currently working on Athena Solutions Ltd.<br>👯 Looking to collaborate with others<br>🌱 Currently learning Python, Economics, and Business<br>⚡ Fun fact: I started coding when I was 8 years old
