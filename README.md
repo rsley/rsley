@@ -1,5 +1,8 @@
-# <p align="center">💫 Rafael</p>
-🔭 Currently working on Athena Solutions Ltd.<br>👯 Looking to collaborate with `Assistants' Center on Discord-Dashboard` and `Thinking_Curved on Area-16`<br>🌱 Currently learning Economics, Business, and Python<br>💬 Ask me about economics<br>⚡ Fun fact: I started coding when I was 8 years old
+# <p align="center"> Rafael </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=4D8AF7&center=true&vCenter=true&random=true&width=435&lines=Full+time+high+school+student;A+self-taught+developer;A+visionary;An+advocate+for+global+safety;Driven+to+inspire+and+make+an+impact)](https://git.io/typing-svg)
+
+
+🔭 Currently working on Athena Solutions Ltd.<br>👯 Looking to collaborate with others<br>🌱 Currently learning Python, Economics, and Business<br>⚡ Fun fact: I started coding when I was 8 years old
 
 
 ## 🌐 Socials:
