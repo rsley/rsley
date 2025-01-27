@@ -1,4 +1,4 @@
-# [Rafael Soley R.](https://rsrdev.com)
+# [Rafael](https://rsrdev.com)
 ![Typing Effect](https://cdn.rsrdev.com/typing?font=Raleway&amp;duration=4000&amp;pause=1200&amp;size=16&amp;color=ffffff&amp;width=435&amp;lines=A+self-taught+developer;Aspiring+neural+network+engineer;A+visionary;Aspiring+Cyber+Security+Expert;Driven+by+a+desire+to+promote+justice+and+equality;An+advocate+for+global+safety;Driven+to+inspire+and+make+an+impact;High+school+student)
 
 ## 👋 About Me:
